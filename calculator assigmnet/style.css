@@ -1,0 +1,66 @@
+.container{
+    margin: 0px auto;
+    border: 3px solid royalblue;
+    width: 400px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+    ;
+}
+input{
+    width: 89%;
+    height: 54px;
+    margin: 16px;
+    font-size: 38px;
+    border-radius: 8px;
+    border: 2px solid royalblue;
+    outline: none;
+    background-color: #ece7e7;
+    
+}
+.btn{
+    width: 74px;
+    padding: 17px;
+    margin: 6px;
+    color: white;
+    background-color: royalblue;
+    border-radius: 8px;
+    outline: none;
+    font-size: 19px;
+    font-weight: 700;
+
+}
+.calbtn{
+    width: 85%;
+    padding: 17px;
+    margin: 6px;
+    color: white;
+    background-color: royalblue;
+    border-radius: 8px;
+    outline: none;
+    
+    font-size: 17px;
+    font-weight: 700;
+}
+.btn:hover{
+    background-color: rgb(23, 32, 161);
+}
+.calbtn:hover{
+    background-color: rgb(23, 32, 161);
+}
+.inp{
+    margin-top: -6px;
+}
+.heading{
+    text-align: left;
+    color: rgb(33, 44, 201);
+    font-size: 24px;
+    margin: 8px 18px; 
+    font-weight: 700;
+}
+.name{
+    text-align: center;
+    color: royalblue;
+    font-size: 30px;
+    text-shadow: 7px 7px 3px #abb7e4 ;
+}
